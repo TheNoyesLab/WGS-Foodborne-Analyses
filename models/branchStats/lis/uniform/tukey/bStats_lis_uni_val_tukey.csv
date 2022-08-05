@@ -1,0 +1,7 @@
+"","Validation.diff","Validation.lwr","Validation.upr","Validation.p.adj"
+"uniform-non-uniform|avgBranLen",-0.2,-2.01,1.61,0.82
+"uniform-non-uniform|dia",0.06,-1.92,2.03,0.95
+"uniform-non-uniform|edge",-0.16,-1.96,1.65,0.86
+"uniform-non-uniform|height",0.1,-1.83,2.02,0.92
+"uniform-non-uniform|totalClusters",0.23,-0.03,0.48,0.08
+"uniform-non-uniform|outbreakClusters",0.22,-0.26,0.7,0.35

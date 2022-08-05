@@ -1,0 +1,7 @@
+"","Colless.Index..By.PDA.Model","Colless.Index..By.Yule","Gamma.Statistic","Sackin.Index..By.PDA.Model","Sackin.Index..By.Yule","Total.number.of.clusters.without.singletons","Number.of.clusters.that.contained.a.confirmed.outbreak.genome"
+"Pipeline     ",0.03,0.01,0,0.03,0.01,0,0
+"GenomePortion",0.01,0.01,0.79,0.02,0.01,0.05,0.55
+"Host         ",0.95,0.83,0.29,0.92,0.81,0.52,0.2
+"Validation   ",0.27,0.23,0.7,0.31,0.23,0.76,0.46
+"SampleType   ",0.38,0.36,0.02,0.4,0.4,0.33,0.3
+"Geography    ",0.8,0.93,0.77,0.79,0.97,0.14,0.08

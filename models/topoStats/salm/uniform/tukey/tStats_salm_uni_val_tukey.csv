@@ -1,0 +1,8 @@
+"","Validation.diff","Validation.lwr","Validation.upr","Validation.p.adj"
+"uniform-non-uniform|collessPDA",0.14,-0.13,0.42,0.28
+"uniform-non-uniform|collessYule",0.22,-0.16,0.59,0.24
+"uniform-non-uniform|gamma",0.27,-1.18,1.72,0.71
+"uniform-non-uniform|sackinPDA",0.1,-0.1,0.3,0.33
+"uniform-non-uniform|sackinYule",0.22,-0.16,0.6,0.25
+"uniform-non-uniform|totalClusters",0.55,-3.21,4.31,0.77
+"uniform-non-uniform|outbreakClusters",0.66,-1.21,2.54,0.48

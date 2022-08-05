@@ -1,0 +1,7 @@
+"","SampleType.diff","SampleType.lwr","SampleType.upr","SampleType.p.adj"
+"uniform-non-uniform|avgBranLen",2.47,0.42,4.52,0.02
+"uniform-non-uniform|dia",2.96,0.96,4.95,0.01
+"uniform-non-uniform|edge",2.48,0.43,4.53,0.02
+"uniform-non-uniform|height",2.95,1.03,4.87,0
+"uniform-non-uniform|totalClusters",2.08,-3.06,7.22,0.41
+"uniform-non-uniform|outbreakClusters",1.04,-1.36,3.44,0.38

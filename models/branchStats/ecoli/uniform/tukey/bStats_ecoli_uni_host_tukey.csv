@@ -1,0 +1,7 @@
+"","Host.diff","Host.lwr","Host.upr","Host.p.adj"
+"uniform-non-uniform|avgBranLen",0.04,-1.17,1.25,0.95
+"uniform-non-uniform|dia",0.22,-1.21,1.65,0.76
+"uniform-non-uniform|edge",0.05,-1.16,1.26,0.94
+"uniform-non-uniform|height",0,-1.37,1.37,1
+"uniform-non-uniform|totalClusters",-2.04,-6.16,2.07,0.31
+"uniform-non-uniform|outbreakClusters",-0.17,-0.72,0.38,0.54

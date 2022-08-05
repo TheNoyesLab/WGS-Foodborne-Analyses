@@ -1,0 +1,8 @@
+"","SampleType.diff","SampleType.lwr","SampleType.upr","SampleType.p.adj"
+"uniform-non-uniform|collessPDA",-0.13,-0.37,0.11,0.27
+"uniform-non-uniform|collessYule",-0.14,-0.43,0.16,0.36
+"uniform-non-uniform|gamma",-0.45,-1.51,0.61,0.39
+"uniform-non-uniform|sackinPDA",-0.1,-0.29,0.09,0.3
+"uniform-non-uniform|sackinYule",-0.13,-0.44,0.18,0.39
+"uniform-non-uniform|totalClusters",0.05,-0.18,0.27,0.67
+"uniform-non-uniform|outbreakClusters",0.17,-0.27,0.6,0.43
