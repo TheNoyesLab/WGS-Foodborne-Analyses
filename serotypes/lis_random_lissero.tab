@@ -1,0 +1,184 @@
+ID	SEROTYPE	PRS	LMO0737	LMO1118	ORF2110	ORF2819	COMMENT
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR1102138.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR1102218.skesa.fa	Nontypeable	FULL	NONE	NONE	NONE	NONE	No combination of fully matched genes resulted in a known serotype
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR1102225.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR1102227.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR1276173.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR1276231.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR1304259.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR1433025.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR1738718.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR2261443.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR2261499.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR2521655.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR2522067.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR2522273.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR3201679.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR4078742.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR4283981.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR4285118.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1206159.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1393979.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1534987.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553739.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553756.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553773.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553774.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553788.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553791.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553792.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553804.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553816.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553821.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553826.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553827.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553851.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553856.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553867.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553882.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1553907.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1556288.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1556289.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1556290.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1556291.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1556293.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1556294.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1556295.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1556296.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1556297.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1562157.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1597487.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1597501.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1695792.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1695809.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1695811.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1695812.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1695823.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1695840.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1695848.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1745438.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1745445.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1745449.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1745457.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1745460.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1745482.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1745488.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1746769.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1746770.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1779500.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1949651.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR1996277.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2040647.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2049090.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2051132.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2086095.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2154030.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2485319.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2564618.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2584373.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2914365.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2914415.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2914416.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2918065.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2954295.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2954311.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR2994383.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3062677.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3062678.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3067414.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3096926.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3096930.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3102198.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3103858.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3115274.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3137005.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3137009.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3139469.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3147943.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3171856.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3176164.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3178063.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3181801.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR3199548.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/listeriaoutbreakSRR974868.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR1041615.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR10505987.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR10771324.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR10803935.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR10831201.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR10850263.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR10850650.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR10852627.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR11080122.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR11091283.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR11137010.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR11143312.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR11146103.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR11215310.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR11391802.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR11450342.skesa.fa	Nontypeable	FULL	NONE	NONE	NONE	NONE	No combination of fully matched genes resulted in a known serotype
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR11647990.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR12038234.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR12341216.skesa.fa	1/2c, 3c	FULL	FULL	FULL	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR1272786.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR12803284.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR13070916.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR13070961.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR1395312.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR1534983.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR1575070.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR1695783.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR1818107.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR1908936.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR2047404.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR2219561.skesa.fa	Nontypeable	FULL	NONE	NONE	NONE	NONE	No combination of fully matched genes resulted in a known serotype
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR2648684.skesa.fa	1/2c, 3c	FULL	FULL	FULL	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR2912318.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR3095274.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR3108914.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR3198674.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR3474622.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR3571287.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR3747686.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR4048557.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR4052196.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR5134703.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR5217475.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR5318442.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR5318581.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR5335950.skesa.fa	1/2c, 3c	FULL	FULL	FULL	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR5486814.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR5646986.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR6457788.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR6490545.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR6506632.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR6745675.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR6798607.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR6814549.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR6854485.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR6881699.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR7184942.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR7289175.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR7440603.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR7643036.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR7649937.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR7765211.skesa.fa	1/2c, 3c	FULL	FULL	FULL	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR7828062.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR7841102.skesa.fa	1/2c, 3c	FULL	FULL	FULL	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR7866300.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR7873681.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR8501662.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR8624678.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR8645702.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR8767204.skesa.fa	Nontypeable	FULL	NONE	NONE	NONE	NONE	No combination of fully matched genes resulted in a known serotype
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR8902641.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR9003226.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR9019378.skesa.fa	1/2b, 3b, 7	FULL	NONE	NONE	NONE	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR9206847.skesa.fa	Nontypeable	FULL	NONE	NONE	NONE	NONE	No combination of fully matched genes resulted in a known serotype
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR9206851.skesa.fa	4b, 4d, 4e*	FULL	FULL	NONE	FULL	FULL	Unusual 4b with lmo0737
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR9282951.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR9593774.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR9641958.skesa.fa	1/2a, 3a	FULL	FULL	NONE	NONE	NONE	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/SRR9997919.skesa.fa	Nontypeable	FULL	NONE	NONE	NONE	NONE	No combination of fully matched genes resulted in a known serotype
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR3430641.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
+/scratch.global/fermx014/FMPRE/Raw_datasets/100_genome_datasets/100genomes_Listeria_all_genomes/ERR3430686.skesa.fa	4b, 4d, 4e	FULL	NONE	NONE	FULL	FULL	
